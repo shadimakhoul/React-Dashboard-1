@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27" height="29" viewBox="0 0 27 29">
+  <g id="icon-Notification" transform="translate(0 2)">
+    <path id="Notification_Icon" data-name="Notification Icon" d="M7.875,18.375h5.25a2.625,2.625,0,0,1-5.25,0ZM1.312,17.063a1.312,1.312,0,1,1,0-2.625h.657A5.714,5.714,0,0,0,3.937,10.5V6.563A6.5,6.5,0,0,1,10.5,0a6.5,6.5,0,0,1,6.562,6.563V10.5a5.711,5.711,0,0,0,1.969,3.938h.657a1.312,1.312,0,1,1,0,2.625Z" transform="translate(0 6)" fill="#1dbbbe"/>
+    <g id="Notification_Badge" data-name="Notification Badge" transform="translate(14)" fill="#ffc06a" stroke="#fff" stroke-width="2">
+      <ellipse cx="5.5" cy="5" rx="5.5" ry="5" stroke="none"/>
+      <ellipse cx="5.5" cy="5" rx="6.5" ry="6" fill="none"/>
+    </g>
+  </g>
+</svg>

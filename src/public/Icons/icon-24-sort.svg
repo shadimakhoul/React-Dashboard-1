@@ -1,0 +1,9 @@
+<svg id="icon-24-sort" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_1487" data-name="Rectangle 1487" width="24" height="24" fill="rgba(255,255,255,0)"/>
+  <g id="sort-svgrepo-com_1_" data-name="sort-svgrepo-com (1)" transform="translate(2.693 -5.036)">
+    <g id="Group_105" data-name="Group 105" transform="translate(0 8.15)">
+      <path id="Path_369" data-name="Path 369" d="M5.087,25.916V9.984l3.147,2.8a.574.574,0,0,0,.744,0,.429.429,0,0,0,0-.658L4.938,8.531a.587.587,0,0,0-.74,0L.154,12.126a.429.429,0,0,0,0,.658.568.568,0,0,0,.74,0l3.147-2.8V25.916a.5.5,0,0,0,.526.468A.5.5,0,0,0,5.087,25.916Z" transform="translate(0 -8.389)" fill="#02466a"/>
+      <path id="Path_370" data-name="Path 370" d="M279.99,26a.574.574,0,0,0,.744,0l4.04-3.595a.429.429,0,0,0,0-.658.568.568,0,0,0-.74,0l-3.147,2.8V8.618a.529.529,0,0,0-1.052,0V24.55l-3.142-2.8a.568.568,0,0,0-.74,0,.429.429,0,0,0,0,.658Z" transform="translate(-266.313 -8.15)" fill="#02466a"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,31 @@
+<svg id="icon-32-tiktok" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.003" y1="1.003" x2="0.997" y2="0.003" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#111"/>
+      <stop offset="1" stop-color="#323232"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.079" y1="0.885" x2="0.902" y2="0.158" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#b5053c"/>
+      <stop offset="0.233" stop-color="#c90441"/>
+      <stop offset="0.737" stop-color="#f0014b"/>
+      <stop offset="1" stop-color="#ff004f"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.067" y1="0.896" x2="0.934" y2="0.13" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00b2c9"/>
+      <stop offset="0.283" stop-color="#00c8d4"/>
+      <stop offset="0.741" stop-color="#00e6e4"/>
+      <stop offset="1" stop-color="#00f1ea"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="-0.497" y1="1.391" x2="1.527" y2="-0.39" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#dde3e4"/>
+      <stop offset="1" stop-color="#fcf7f7"/>
+    </linearGradient>
+  </defs>
+  <rect id="Rectangle_7232" data-name="Rectangle 7232" width="32" height="32" fill="rgba(255,255,255,0)"/>
+  <g id="Group_952" data-name="Group 952" transform="translate(2 2)">
+    <path id="Path_889" data-name="Path 889" d="M14,0A14,14,0,1,0,28,14,14,14,0,0,0,14,0Z" fill="url(#linear-gradient)"/>
+    <path id="Path_890" data-name="Path 890" d="M146.634,119.123a3.957,3.957,0,0,1-3.957-3.957h-2.827v11.071a2.4,2.4,0,1,1-1.725-2.309V121.18a5.1,5.1,0,1,0,4.421,5.057l.082-5.6a6.754,6.754,0,0,0,4.007,1.31Z" transform="translate(-125.102 -108.868)" fill="url(#linear-gradient-2)"/>
+    <path id="Path_891" data-name="Path 891" d="M132.969,105.04a3.957,3.957,0,0,1-3.957-3.957h-2.827v11.071a2.4,2.4,0,1,1-1.725-2.309V107.1a5.1,5.1,0,1,0,4.421,5.057l.082-5.6a6.754,6.754,0,0,0,4.007,1.309Z" transform="translate(-112.185 -95.555)" fill="url(#linear-gradient-3)"/>
+    <path id="Path_892" data-name="Path 892" d="M145.9,119.054a6.235,6.235,0,0,1-3.882-3.887h-2.155v11.071a2.9,2.9,0,1,1-2.473-3.079v-2.023a4.638,4.638,0,1,0,4.421,4.331l.082-5.6a6.754,6.754,0,0,0,4.007,1.309Z" transform="translate(-125.115 -108.869)" fill="url(#linear-gradient-4)"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg id="icon-24-name" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_7041" data-name="Rectangle 7041" width="24" height="24" fill="rgba(255,255,255,0)"/>
+  <g id="Group_419" data-name="Group 419" transform="translate(1.02 1.02)">
+    <g id="Group_419-2" data-name="Group 419" transform="translate(7.054 6.274)">
+      <circle id="Ellipse_231" data-name="Ellipse 231" cx="2.326" cy="2.326" r="2.326" transform="translate(1.6)" fill="#1dbbbe"/>
+      <path id="Path_596" data-name="Path 596" d="M22.521,25.688H16.167a.75.75,0,0,0-.749.749v4.729a7.43,7.43,0,0,0,7.853.013V26.437A.75.75,0,0,0,22.521,25.688Z" transform="translate(-15.418 -20.209)" fill="#1dbbbe"/>
+    </g>
+    <path id="Path_597" data-name="Path 597" d="M10.98,0a10.98,10.98,0,1,0,10.98,10.98A10.98,10.98,0,0,0,10.98,0Zm.013,20.059a9.132,9.132,0,1,1,9.132-9.132A9.132,9.132,0,0,1,10.994,20.059Z" fill="#1dbbbe"/>
+  </g>
+</svg>

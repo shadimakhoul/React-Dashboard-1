@@ -1,0 +1,7 @@
+<svg id="icon-24-ratings" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_7075" data-name="Rectangle 7075" width="24" height="24" fill="rgba(255,255,255,0)"/>
+  <g id="user-star-svgrepo-com" transform="translate(2 2)">
+    <path id="Path_656" data-name="Path 656" d="M0,0H20V20H0Z" fill="none"/>
+    <path id="Path_657" data-name="Path 657" d="M10.667,11.833V13.5a5,5,0,0,0-5,5H4a6.667,6.667,0,0,1,6.667-6.667Zm0-.833a5,5,0,1,1,5-5A5,5,0,0,1,10.667,11Zm0-1.667A3.333,3.333,0,1,0,7.333,6,3.332,3.332,0,0,0,10.667,9.333Zm5,8.75-2.449,1.288.467-2.727L11.7,14.712l2.738-.4,1.224-2.481,1.225,2.481,2.738.4-1.981,1.932.467,2.727Z" transform="translate(-0.667 -0.167)" fill="#02466a"/>
+  </g>
+</svg>

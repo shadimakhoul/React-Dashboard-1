@@ -1,0 +1,9 @@
+<svg id="icon-24-Quantity" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_7155" data-name="Rectangle 7155" width="24" height="24" fill="rgba(255,255,255,0)"/>
+  <g id="_211699_box_icon" data-name="211699_box_icon" transform="translate(-95.161 -110.045)">
+    <path id="Path_828" data-name="Path 828" d="M198.683,225.116a1.125,1.125,0,0,1,1.123,1.116,1.109,1.109,0,0,1-1.109,1.116h-4.464a1.116,1.116,0,0,1,0-2.232h4.395M198.7,224h-4.464a2.232,2.232,0,0,0,0,4.464H198.7a2.232,2.232,0,0,0,0-4.464Z" transform="translate(-89.303 -104.187)" fill="#67747b"/>
+    <g id="Group_813" data-name="Group 813" transform="translate(96 112)">
+      <path id="Path_829" data-name="Path 829" d="M118.322,112H96v5.581h1.116V132.09h20.09V117.581h1.116Zm-2.232,18.974H98.232V117.581H116.09Zm1.116-14.509H97.116v-3.348h20.09Z" transform="translate(-96 -112)" fill="#67747b"/>
+    </g>
+  </g>
+</svg>

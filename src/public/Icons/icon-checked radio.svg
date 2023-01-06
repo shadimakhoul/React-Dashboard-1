@@ -1,0 +1,10 @@
+<svg id="icon-checked_radio" data-name="icon-checked radio" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_7138" data-name="Rectangle 7138" width="24" height="24" fill="rgba(255,255,255,0)"/>
+  <g id="Page-1" transform="translate(2 2)">
+    <g id="Core" transform="translate(-338 -338)">
+      <g id="radio-button-on" transform="translate(338 338)">
+        <path id="Shape" d="M10,5a5,5,0,1,0,5,5,4.951,4.951,0,0,0-5-5Zm0-5A10,10,0,1,0,20,10,10.029,10.029,0,0,0,10,0Zm0,18a8,8,0,1,1,8-8,8.024,8.024,0,0,1-8,8Z" fill-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+</svg>

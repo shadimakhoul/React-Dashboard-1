@@ -1,0 +1,10 @@
+<svg id="iocn-26-Clinic" xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26">
+  <circle id="Ellipse_217" data-name="Ellipse 217" cx="13" cy="13" r="13" fill="rgba(29,187,190,0.2)"/>
+  <g id="Clinic_" data-name="Clinic " transform="translate(11726.622 14582.622)">
+    <rect id="Rectangle_1495" data-name="Rectangle 1495" width="18" height="18" transform="translate(-11722.622 -14578.622)" fill="rgba(255,255,255,0)"/>
+    <g id="clinic" transform="translate(-11721.877 -14577.616)">
+      <path id="Path_406" data-name="Path 406" d="M216.733,262.5h-.97v-.97a.431.431,0,0,0-.862,0v.97h-.97a.431.431,0,0,0,0,.862h.97v.97a.431.431,0,1,0,.862,0v-.97h.97a.431.431,0,1,0,0-.862Z" transform="translate(-207.077 -252.888)" fill="#1dbbbe"/>
+      <path id="Path_407" data-name="Path 407" d="M79.717,74.7h-1.31a5.943,5.943,0,0,0-11.3,0h-1.31A1.3,1.3,0,0,0,64.5,76v9.3a1.3,1.3,0,0,0,1.293,1.293H79.717A1.3,1.3,0,0,0,81.01,85.3V76A1.291,1.291,0,0,0,79.717,74.7Zm-6.962-3.242A5.073,5.073,0,0,1,77.488,74.7H68.018A5.085,5.085,0,0,1,72.755,71.462Zm7.393,13.829a.432.432,0,0,1-.431.431H65.793a.432.432,0,0,1-.431-.431V76a.432.432,0,0,1,.431-.431H79.717a.432.432,0,0,1,.431.431Z" transform="translate(-64.5 -70.6)" fill="#1dbbbe"/>
+    </g>
+  </g>
+</svg>

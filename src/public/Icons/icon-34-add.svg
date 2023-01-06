@@ -1,0 +1,7 @@
+<svg id="icon-34-add" xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34">
+  <circle id="Ellipse_228" data-name="Ellipse 228" cx="17" cy="17" r="17" fill="#242424"/>
+  <g id="icon-24-action-add" transform="translate(3 3)">
+    <rect id="Bounding_box" data-name="Bounding box" width="28" height="28" fill="rgba(255,255,255,0)"/>
+    <path id="Icon_color" data-name="Icon color" d="M18,8.357V9.643a.643.643,0,0,1-.643.643H10.286v7.071A.643.643,0,0,1,9.643,18H8.357a.643.643,0,0,1-.643-.643V10.286H.643A.643.643,0,0,1,0,9.643V8.357a.643.643,0,0,1,.643-.643H7.714V.643A.643.643,0,0,1,8.357,0H9.643a.643.643,0,0,1,.643.643V7.714h7.071A.643.643,0,0,1,18,8.357Z" transform="translate(5 5)" fill="#fff"/>
+  </g>
+</svg>

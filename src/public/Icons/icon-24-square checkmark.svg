@@ -1,0 +1,4 @@
+<svg id="icon-24-square_checkmark" data-name="icon-24-square checkmark" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Bounding_box" data-name="Bounding box" width="24" height="24" fill="rgba(255,255,255,0)"/>
+  <path id="Icon_color" data-name="Icon color" d="M16,18H2a2,2,0,0,1-2-2V2A2,2,0,0,1,2,0H16a2,2,0,0,1,2,2V16A2,2,0,0,1,16,18ZM2,2V16H16V2ZM7.35,12.5A.481.481,0,0,1,7,12.35L4.62,9.98a.5.5,0,0,1-.148-.355A.5.5,0,0,1,4.62,9.27l.53-.53a.481.481,0,0,1,.7,0l1.5,1.49L12.09,5.49a.5.5,0,0,1,.7,0l.53.53a.5.5,0,0,1,0,.71L7.7,12.35A.481.481,0,0,1,7.35,12.5Z" transform="translate(3 3)"/>
+</svg>

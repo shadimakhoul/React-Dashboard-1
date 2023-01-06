@@ -1,0 +1,9 @@
+<svg id="icon-24-market" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Layer_2" data-name="Layer 2" transform="translate(-1.654 -1.654)">
+    <path id="Path_899" data-name="Path 899" d="M19.824,25.391H7.531a4.491,4.491,0,0,1-4.352-5.6L5.671,9.623A.82.82,0,0,1,6.49,9H20.218a.82.82,0,0,1,.82.574l3.1,9.966a4.5,4.5,0,0,1-.68,4.024A4.434,4.434,0,0,1,19.824,25.391ZM7.105,10.639,4.737,20.187A2.868,2.868,0,0,0,7.5,23.752H19.792a2.819,2.819,0,0,0,2.287-1.164,2.868,2.868,0,0,0,.434-2.565l-2.885-9.384Z" transform="translate(0 -1.083)" fill="#02466a"/>
+    <path id="Path_900" data-name="Path 900" d="M18.376,14.474a.82.82,0,0,1-.82-.82V7.1a2.459,2.459,0,1,0-4.917,0v6.556a.82.82,0,0,1-1.639,0V7.1a4.1,4.1,0,0,1,8.2,0v6.556A.82.82,0,0,1,18.376,14.474Z" transform="translate(-1.436)" fill="#02466a"/>
+  </g>
+  <g id="frame" transform="translate(0.277 0.277)">
+    <rect id="Rectangle_7247" data-name="Rectangle 7247" width="24" height="24" transform="translate(-0.277 -0.277)" fill="none"/>
+  </g>
+</svg>

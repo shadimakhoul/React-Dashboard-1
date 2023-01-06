@@ -1,0 +1,4 @@
+<svg id="icon-36-actions-checkamark" xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <rect id="Bounding_box" data-name="Bounding box" width="36" height="36" fill="rgba(255,255,255,0)"/>
+  <path id="Icon_color" data-name="Icon color" d="M15,30A15,15,0,1,1,30,15,15.017,15.017,0,0,1,15,30ZM15,3A12,12,0,1,0,27,15,12.014,12.014,0,0,0,15,3ZM12.525,20.253A.722.722,0,0,1,12,20.025L8.475,16.47a.748.748,0,0,1,0-1.065l.8-.8a.72.72,0,0,1,1.049,0l2.25,2.236L19.68,9.735a.75.75,0,0,1,1.05,0l.749.8a.753.753,0,0,1,.221.532.745.745,0,0,1-.221.533l-8.429,8.429A.722.722,0,0,1,12.525,20.253Z" transform="translate(3 3)" fill="#3ae374"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="24" height="24" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="document_text_outlined" clip-path="url(#clip-path)">
+    <rect id="Bounding_box" data-name="Bounding box" width="24" height="24" fill="rgba(255,255,255,0)"/>
+    <path id="Icon_color" data-name="Icon color" d="M8.76,20H2a2,2,0,0,1-2-2V2A2,2,0,0,1,2,0H14a2,2,0,0,1,2,2V12.76a2.98,2.98,0,0,1-.88,2.12l-4.24,4.24A2.981,2.981,0,0,1,8.76,20ZM2,2V18H8V13a1,1,0,0,1,1-1h5V2Zm6.5,8h-4A.5.5,0,0,1,4,9.5v-1A.5.5,0,0,1,4.5,8h4a.5.5,0,0,1,.5.5v1A.5.5,0,0,1,8.5,10Zm3-4h-7A.5.5,0,0,1,4,5.5v-1A.5.5,0,0,1,4.5,4h7a.5.5,0,0,1,.5.5v1A.5.5,0,0,1,11.5,6Z" transform="translate(4 2)"/>
+  </g>
+</svg>

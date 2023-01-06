@@ -1,0 +1,4 @@
+<svg id="icon-24-actions-info_outined" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Bounding_box" data-name="Bounding box" width="24" height="24" fill="rgba(255,255,255,0)"/>
+  <path id="Icon_color" data-name="Icon color" d="M10,20A10,10,0,1,1,20,10,10.011,10.011,0,0,1,10,20ZM10,2a8,8,0,1,0,8,8A8.009,8.009,0,0,0,10,2Zm.5,12h-1a.5.5,0,0,1-.5-.5v-3a.5.5,0,0,1,.5-.5h1a.5.5,0,0,1,.5.5v3A.5.5,0,0,1,10.5,14Zm0-6h-1A.5.5,0,0,1,9,7.5v-1A.5.5,0,0,1,9.5,6h1a.5.5,0,0,1,.5.5v1A.5.5,0,0,1,10.5,8Z" transform="translate(2 2)" fill="#02466a"/>
+</svg>

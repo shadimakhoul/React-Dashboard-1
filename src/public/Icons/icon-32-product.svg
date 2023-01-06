@@ -1,0 +1,12 @@
+<svg id="icon-32-product" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <rect id="Rectangle_7069" data-name="Rectangle 7069" width="32" height="32" fill="rgba(255,255,255,0)"/>
+  <g id="Group_495" data-name="Group 495" transform="translate(0 1.004)">
+    <path id="Path_645" data-name="Path 645" d="M5,11.485,9.632,5l4.632,6.485Z" transform="translate(0 -0.193)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Path_646" data-name="Path 646" d="M10,5H21.116l4.632,6.485H14.632" transform="translate(-0.368 -0.193)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <rect id="Rectangle_7064" data-name="Rectangle 7064" width="12" height="4" transform="translate(9.19 0.997)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <rect id="Rectangle_7065" data-name="Rectangle 7065" width="9" height="18" transform="translate(5.19 10.997)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <rect id="Rectangle_7066" data-name="Rectangle 7066" width="11" height="18" transform="translate(14.19 10.997)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <rect id="Rectangle_7067" data-name="Rectangle 7067" width="20" height="5" transform="translate(5.19 10.997)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <rect id="Rectangle_7068" data-name="Rectangle 7068" width="20" height="5" transform="translate(5.19 23.997)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+  </g>
+</svg>

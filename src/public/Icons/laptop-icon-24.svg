@@ -1,0 +1,7 @@
+<svg id="laptop-icon-24" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_7151" data-name="Rectangle 7151" width="24" height="24" fill="rgba(255,255,255,0)"/>
+  <g id="Group_795" data-name="Group 795" transform="translate(1.443 1.443)">
+    <path id="Path_825" data-name="Path 825" d="M0,0H21.113V21.113H0Z" fill="none"/>
+    <path id="Path_826" data-name="Path 826" d="M17.594,19.2v-.88a1.751,1.751,0,0,0,1.751-1.759l.009-8.8A1.759,1.759,0,0,0,17.594,6H3.519A1.759,1.759,0,0,0,1.759,7.759v8.8a1.759,1.759,0,0,0,1.759,1.759v.88H0v1.759H21.113V19.2ZM3.519,7.759H17.594v8.8H3.519Z" transform="translate(0 -3.361)" fill="#adb5b9"/>
+  </g>
+</svg>

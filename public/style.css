@@ -1,0 +1,605 @@
+:root{
+    --header-color: #02466A;
+    --secound-color: #1DBBBE;
+    --header-secound-color: #0f4f72;
+    --holders-color: #A7A7A7;
+    --text-color: #D3D3D3 ;
+    --sidebar-color: #f8f6f6;
+}
+
+.navbar {
+    background-color: var(--header-color);
+    height: fit-content;
+}
+
+.navbar-nav{
+    align-items: center;
+    height: 100%;
+    width: 100%;
+}
+
+.searchBoxDiv{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+}
+
+.searchBox{
+    display: inline-block;
+    background-color: var(--header-secound-color) ;
+    border: 0;
+    width: 70%;
+    border-radius: 20px;
+    height: 2rem;
+    text-align: right;
+    padding-right: 3rem;
+    color: aliceblue;
+    padding-bottom: 1px;
+    outline: 0;
+}
+
+.searchBox::-webkit-input-placeholder{
+    font-size: medium;
+    color: var(--holders-color);
+    text-align: end;
+    align-content: center;
+}
+
+.searchButton{
+    display: inline-block;
+    background-color: var(--secound-color);
+    border: 0;
+    border-radius: 0 20px 20px 20px;
+    position: relative;
+    width: 10%;
+    right: 2rem;
+    justify-content: center;
+    align-items: center;
+    height: 2rem;
+    font-size: 5px;
+}
+
+.rounded-circle{
+    width: 2.5rem;
+}
+
+.navbar .avatarDiv{
+    display: flex;
+    justify-content: right;
+}
+
+.avatarCol{
+    display: inline-flex;
+    justify-content: right;
+}
+
+.notificationButton{
+    display: flex;
+    justify-content: right;
+    border: 0;
+    background-color: var(--header-color);
+    margin-right: 2rem;
+}
+
+.usernameButton{
+    display: flex;
+    justify-content: right;
+    border:  0;
+    background-color: var(--header-color);
+    color: var(--text-color);
+    font-size: 18px;
+    align-items: center;
+}
+
+.messageIcon{
+    border: 0;
+    background-color: var(--header-color);
+}
+
+.homeCol{
+    display: inline-flex;
+    justify-content: right;
+}
+
+.location{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    font-size: 18px;
+    color: #fff;
+    margin-top: 15px;
+}
+
+.homeButton{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    border: 0;
+    font-size: 20px;
+    background-color: var(--header-color);
+    color: aquamarine;
+    margin-right: 30px;
+}
+
+#homeContainer{
+    margin: 0;
+    width: 100% !important;
+    min-width: 100%;
+
+}
+
+.sidebar{
+    background-color: var(--sidebar-color);
+    position: static;
+    right: 0;
+    height: 100%;
+    
+}
+
+.mainButton{
+    position: relative;
+    display: flex;
+    background-color: var(--sidebar-color);
+    color: var(--header-secound-color);
+    border: 0;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    width: 100%;
+    height: 56px;
+    justify-content: right;
+    align-items: center;
+}
+
+
+.mainButton:hover{
+    background-color: var(--header-secound-color);
+    color: #fff;
+}
+
+.buttonIcon{
+    margin-left: 20px;
+}
+
+.arrowButton{
+    position: absolute;
+    left: 2px;
+}
+
+.listButton{
+    margin-top: 5px;
+    background-color: #a1cbcc;
+}
+
+.numberInfo{
+    margin-top: 1rem;
+    background-color: var(--sidebar-color);
+    display: flex;
+    height: 15%;
+    padding: 10px;
+    align-items: center;
+}
+
+.numberGridDiv{
+    display: grid;
+    grid-auto-flow: column;
+    grid-template-columns: 30%;
+    gap: 3rem;
+    width: 100%;
+}
+
+.serviceNumber{
+    height: 7rem;
+    border-radius: 7px;
+    background-color: #fff;
+    box-shadow:rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    display: grid;
+    gap: 15px;
+    grid-auto-flow: column;
+    grid-template-columns: 200px 50px ;
+    align-items: center;
+    justify-items: end;
+    padding-right: 2rem;
+}
+
+.serviceNumber .storeIcon{
+    height: 2.6rem;
+    width: 2.6rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--text-color);
+    border-radius: 10px;
+
+}
+
+.storeIcon > img{
+    width: 20px;
+    height: 20px;
+}
+
+.textService{
+    display: flexbox;
+    justify-content: right;
+    width: 100%;
+}
+
+.storesNumber{
+    font-family: serif;
+    font-size: 1.4rem;
+    display: flex;
+    justify-content: right;
+}
+
+.storeNum{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+
+.storeNum > .a1{
+    text-decoration: none;
+    font-size: 10px;
+    color: var(--holders-color);
+    margin-left: 1.2rem;
+
+}
+
+.storeNum > .a2{
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.statisticsDiv{
+    display: block;
+    margin-top: 1px;
+    background-color: var(--sidebar-color);
+    height: fit-content;
+    justify-content: right;
+}
+
+.calendar{
+    height: 2.3rem;
+    width: 100%;
+    display: flex;
+    justify-content: right;
+}
+
+.calendarBtn{
+    width: 7%;
+    border: 0;
+    border-radius: 0 5px 5px 0px;
+    display: flex;
+    background-color: var(--header-color);
+    align-items: center;
+    justify-content: center;
+}
+
+.calendarInp{
+    border: 0.5px solid;
+    border-radius: 5px 0px 0px 5px;
+    width: 40%;
+    outline: none;
+    text-align: end;
+    border-color: var(--header-color);
+}
+
+.calendarInp:disabled{
+    background-color: #fff;
+}
+
+.calendarInp::-webkit-input-placeholder{
+    color: var(--holders-color);
+    padding-bottom: 5px;
+    margin-right: 10px;
+}
+
+.calendarBtn > img {
+    width: 20px;
+    height: 20px;
+}
+
+.planDiv{
+    display: grid;
+    grid-auto-flow: column;
+    grid-template-columns: 30% 70%;
+    gap: 2rem;
+    margin-top: 2rem;
+    background-color: var(--sidebar-color);
+    justify-content: right;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.chaterDiv{
+    display: block;
+    padding-top: 0px;
+    padding-right: 0px;
+    background-color: #fff;
+}
+
+.chaterDiv > h5{
+    text-align: end;
+    color: rgb(54, 45, 45);
+}
+
+.chaterDiv > h6{
+    text-align: end;
+    color: var(--secound-color);
+}
+
+.chaterDiv > div {
+    margin-top: 60px;
+}
+
+.extras{
+    display: grid;
+    grid-auto-flow: row;
+    grid-template-rows: 25%;
+}
+
+.calendarTable{
+    position: absolute;
+    width: 28rem;
+    height: 10rem;
+    border-radius: 20px;
+    top: 20.5rem;
+    right: 15rem;
+    background-color: #02466A;
+}
+
+.calendarList{
+    position: absolute;
+    background-color: var(--secound-color);
+    display: inline-flex;
+    width: 25rem;
+    height: 7rem;
+    justify-content: space-around;
+    top: 21rem;
+    right: 13.5rem;
+    border-radius: 10px;
+    box-shadow: 0 10px 30px;
+}
+
+.calendarList > div{
+    overflow-y: scroll;
+}
+
+.calendarList > div::-webkit-scrollbar{
+    width: 5px;
+    background-color: #1DBBBE;
+}
+
+.calendarList > div::-webkit-scrollbar-thumb{
+    background-color: #02466A;
+    height: 1px;
+}
+
+.calendarList > div > ul{
+    list-style-type: none; 
+    color: #02466A;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-right: 10px;
+}
+
+.calendarList > div > ul > li{
+    border-radius: 5px;
+    text-align: center;
+}
+
+.calendarList > div > ul > li:hover{
+    cursor: pointer;
+    background-color: #02466A;
+    color: #1DBBBE;
+}
+
+.calendarList > div > ul > h6{
+    text-align: center;
+    color: #1DBBBE;
+    background-color: #02466A;
+    border-radius: 0 0 5px 5px;
+}
+
+.calendarList > button{
+    height: 50%;
+    border-radius: 20px;
+    background-color: var(--header-color);
+    color: var(--secound-color);
+    border: 0.5px solid;
+    margin-top: 50px;
+    
+}
+
+.userForm{
+    position: absolute;
+    top: 4.6rem;
+    right: 20rem;
+    height: 60rem;
+    width: 80%;
+    z-index: 3;
+    display: grid;
+    grid-auto-flow: row;
+    grid-template-rows: 15% 70% 15%;
+    background-color: var(--sidebar-color);
+}
+
+/* .userForm > div{
+    display: block;
+    height: 50px;
+} */
+
+.userFromHeader{
+    background-color: var(--sidebar-color);
+    display: flexbox;
+    height: fit-content;
+    flex-direction: row;
+    text-align: right;
+}
+
+.userFromHeader > h3{
+    margin-top: 2rem;
+    margin-right: 2rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.userFromHeader > h5{
+    margin-right: 2rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.userFromHeader > h5 > i{
+    margin-right: 2rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: var(--secound-color);
+}
+
+.userInfo{
+    background-color: #FFF;
+    display: grid;
+    grid-auto-flow: column;
+    grid-template-rows: 12rem 12rem;
+    grid-template-columns: 50% !important;
+    justify-items: center;
+    gap: 3rem;
+    padding: 20px;
+}
+
+.personalImg{
+    display: flex;
+    margin-right: 50px;
+    margin-top: 20px;
+    width: 100%;
+    justify-content: right;
+}
+
+.personalImg > img{
+    border-radius: 10px;
+    width: 200px;
+    height: 200px;
+}
+
+.adminBtn{
+    margin-top: 20px;
+    background-color: var(--header-color);
+    color: #fff;
+    width: 15rem;
+    height: 3rem;
+    border: 0;
+    border-radius: 10px;
+}
+
+.adminDiv{
+    width: 100%;
+    display: flex;
+    justify-content: right;
+    margin-right: 50px;
+}
+
+.textDiv{
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.username{
+    text-align: right;
+}
+
+.email{
+    color: var(--holders-color);
+    text-align: right;
+}
+
+.dropdown{
+    width: 100%;
+    text-align: end;
+}
+
+.inputs{
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    margin-right: 40px;
+    justify-content: right;
+}
+
+.usernameInput{
+    display: block;
+    width: 100%;
+    text-align: end;
+}
+
+.usernameInput2{
+    display: block;
+    width: 100%;
+    text-align: end;
+}
+
+#username{
+    background-color: var(--sidebar-color);
+    border: 0;
+    border-radius: 10px;
+    height: 2.5rem;
+    text-align: end;
+    outline: none;
+}
+
+.usernamep{
+    text-align: end;
+}
+
+.usernamep2{
+    text-align: end;
+    color: #A7A7A7;
+}
+
+.upload{
+    width: 50%;
+    display: flex;
+    margin-left: 14rem;
+    border: 0;
+    border-radius: 10px;
+    height: 2.5rem;
+    background-color: var(--sidebar-color);
+        
+}
+
+.upload:hover{
+    cursor: pointer;
+}
+
+.upbtn{
+    border: 0;
+    border-radius: 10px;
+    background-color: var(--header-color);
+    width: 3rem;
+    color: #fff;
+    font-size: large;
+}
+
+.saveUserInfo{
+    display: flex;
+    justify-content: center;
+
+}
+
+.saveBtn{
+    width: 8rem;
+    height: 3.5rem;
+    border: 2px solid;
+    border-radius: 10px;
+    border-color: var(--header-color);
+    color: var(--header-color);
+    margin-top: 2rem;
+    
+}
+
+.saveBtn:hover{
+    background-color: #02466A;
+    color: #fff;
+    border-color: #A7A7A7;
+}

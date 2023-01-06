@@ -1,0 +1,4 @@
+<svg id="icon-24-sign_out" data-name="icon-24-sign out" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Bounding_box" data-name="Bounding box" width="24" height="24" fill="rgba(255,255,255,0)"/>
+  <path id="Icon_color" data-name="Icon color" d="M7.5,18H2a2,2,0,0,1-2-2V2A2,2,0,0,1,2,0H7.5A.5.5,0,0,1,8,.5v1a.5.5,0,0,1-.5.5H2V16H7.5a.5.5,0,0,1,.5.5v1A.5.5,0,0,1,7.5,18Zm4.785-3a.5.5,0,0,1-.355-.148l-.71-.7a.5.5,0,0,1,0-.71L14.67,10H4.5A.5.5,0,0,1,4,9.5v-1A.5.5,0,0,1,4.5,8H14.67L11.22,4.56a.489.489,0,0,1,0-.7l.71-.71a.5.5,0,0,1,.709,0L17.78,8.28a.768.768,0,0,1,.22.53v.38a.755.755,0,0,1-.22.53L12.64,14.85A.5.5,0,0,1,12.285,15Z" transform="translate(3 3)" fill="#02466a"/>
+</svg>

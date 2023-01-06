@@ -1,0 +1,9 @@
+<svg id="icon-24-repition" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <rect id="Rectangle_7263" data-name="Rectangle 7263" width="20" height="20" fill="rgba(255,255,255,0)"/>
+  <g id="Group_1050" data-name="Group 1050" transform="translate(3 1)">
+    <path id="Path_909" data-name="Path 909" d="M13,7H7V5h6Z" transform="translate(-4.333 -1.8)"/>
+    <path id="Path_910" data-name="Path 910" d="M13,11H7V9h6Z" transform="translate(-4.333 -2.6)"/>
+    <path id="Path_911" data-name="Path 911" d="M7,15h6V13H7Z" transform="translate(-4.333 -3.4)"/>
+    <path id="Path_912" data-name="Path 912" d="M3,15.727V1H13.889V4.273H17V19H6.111V15.727Zm9.333-1.636V2.636H4.556V14.091Zm1.556-8.182v9.818H7.667v1.636h7.778V5.909Z" transform="translate(-3 -1)" fill-rule="evenodd"/>
+  </g>
+</svg>
